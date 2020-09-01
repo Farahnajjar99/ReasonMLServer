@@ -1,6 +1,6 @@
 # Basic Reason Template
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+ web application that responds with "Hello World!" for /hello  and "Hello {param}" for /hello/:param in either Elixir/Phoenix or Reason/ReasonReact.
 
 # Build
 
